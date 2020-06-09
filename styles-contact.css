@@ -151,3 +151,10 @@ a:hover{
 }
     
 
+@font-face {
+	font-family: "Estefin";
+	src: url("Estefin.ttf");
+	src: url("Estefin.ttf") format("woff"),
+	url("Estefin.ttf") format("opentype"),
+	url("Estefin.ttf") format("svg");
+	}
